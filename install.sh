@@ -26,4 +26,4 @@ fi
 npm install
 
 # Start the application
-node app.js
+npm start
