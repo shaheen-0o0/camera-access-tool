@@ -18,13 +18,16 @@ This tool allows you to discover and access IP cameras on your local network. It
     git clone https://github.com/yourusername/camera-access-tool.git
     cd camera-access-tool
     ```
+2. Make the install.sh script executable:
+    ```
+    chmod +x install.sh
 
-2. Run the installation script:
+3. Run the installation script:
     ```sh
     bash install.sh
     ```
 
-3. Access the application:
+4. Access the application:
     Open a browser and go to `http://localhost:3000` or `https://camera-tool.yourdomain.com` if using Cloudflare Tunnel.
 
 ## License
